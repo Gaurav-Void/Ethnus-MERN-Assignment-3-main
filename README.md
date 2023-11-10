@@ -1,1 +1,1 @@
-# Ethnus-MERN-Assignment-3-main
+# Ethnus-MERN-Assignment-3
